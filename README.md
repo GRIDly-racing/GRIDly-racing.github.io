@@ -10,7 +10,9 @@
 <body>
     <h1>Tired of blindly adjusting your GT7 suspension and hoping for the best? 🏎️📉</h1>        
 
-<p>We built a tool that combines live GT7 UDP telemetry with your tuning sheet to generate visual physics simulations. See exactly how your dampers compress over crests, calculate your true aerodynamic load, and visualize your steering geometry in real-time. Stop guessing. Start engineering. <p>
+<p>We built a tool that combines live GT7 UDP telemetry with your tuning sheet to generate visual physics simulations. See exactly how your dampers compress over crests, calculate your true aerodynamic load, and visualize your steering geometry in real-time.</p>
+
+<h2>Stop guessing. Start engineering. </h2>
 
 <h1>Your Virtual Trackside Engineer.</h1>
 

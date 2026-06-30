@@ -1,11 +1,11 @@
-# GRIDly.racing
+# GRIDly.racing simracing performance
 
 <!DOCTYPE html>
 
 <html>
         
 <head>
-    <h2>GRIDly.racing simracing performance</h2>
+    
 </head>
 <body>
     <h1>Tired of blindly adjusting your GT7 suspension and hoping for the best? 🏎️📉</h1>        

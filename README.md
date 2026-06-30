@@ -1,4 +1,4 @@
-# GRIDly.racing simracing performance
+# GRIDly.racing: Advanced Sim Dynamics
 
 <!DOCTYPE html>
 

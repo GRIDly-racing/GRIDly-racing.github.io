@@ -1,6 +1,8 @@
 # GRIDly-racing.github.io
 
 <!DOCTYPE html>
+<script data-goatcounter="https://daxus.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 <html>
 <head>
     <title>My First Static Site</title>

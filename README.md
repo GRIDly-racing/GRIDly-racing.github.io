@@ -5,7 +5,7 @@
 <html>
         
 <head>
-    <title>GRIDly.racing simracing performance</title>
+    <h2>GRIDly.racing simracing performance</h2>
 </head>
 <body>
     <h1>Tired of blindly adjusting your GT7 suspension and hoping for the best? 🏎️📉</h1>        

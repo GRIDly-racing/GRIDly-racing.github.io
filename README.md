@@ -1,4 +1,4 @@
-# GRIDly-racing.github.io
+# GRIDly.racing
 
 <!DOCTYPE html>
 <script data-goatcounter="https://daxus.goatcounter.com/count"
